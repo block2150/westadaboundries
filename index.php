@@ -593,7 +593,48 @@
 
 
  <!-- cta-1 call to action -->
- <section id="tools" class="cta-1 text-center single-padding">
+ <section id="petition" class="cta-1 text-center padding">
+  <div class="container">
+
+    <header class="heading_1 text-center">
+      <i class="icon icon-pencil"></i>
+      <h2 class="main_title">
+        <span class="sub_title">Show Your Support</span>
+        Sign the <span class="base-highlight">Petition.</span>
+      </h2>
+    </header>
+
+
+      <div class="fast-subscribe-form text-center">
+        <form class="mailchimp mar-cen">
+          <div class="input-group mar-bottom-1">
+
+            <input type="text" name="name" class="form-control input-box" placeholder="Your Name" required>
+            <input type="email" name="email" class="form-control input-box" placeholder="Email Address" id="subscriber-email1">
+            <span class="input-group-btn input-box">
+              <input class="btn btn-primary" type="submit" value="I Support This Plan.">
+            </span>
+          </div>
+          <p>
+          
+            We will not send you anything or use your information for anything, <br /> except to show West Ada School District <br /> that an alternative plans needs to be considered.
+          </p>
+
+          <h4 class="subscription-success notice">Success notice here</h4>
+          <h4 class="subscription-error notice">Error notice here</h4>
+        </form>
+        <a href="#" class="btn btn-border-extra mar-top-2">Get Started</a>
+      </div>
+
+
+  </div>
+</section>
+<!-- cta-1 call to action -->
+
+
+
+ <!-- cta-1 call to action -->
+ <section id="tools" class="cta-1 text-center single-padding gray-bg bb-1">
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
@@ -656,7 +697,7 @@
  
 
  <!-- contact -->
- <section id="contact" class="contact padding gray-bg bb-1">
+ <section id="contact" class="contact padding">
   <div class="container">
   
   <header class="heading_1 text-center">
@@ -718,7 +759,7 @@
 </section>
 
 
-  <section class="content-contact-section">
+  <section class="content-contact-section single-padding gray-bg bb-1">
 
       <header class="heading_1 text-center">
         <i class="icon icon-map-pin"></i>

@@ -356,13 +356,13 @@ if (elem.length) {
    =================================== */
 $('.mailchimp').ajaxChimp({
   callback: mailchimpCallback,
-url: "http://wpsolutiongroup.us10.list-manage.com/subscribe/post?u=dfebf17589e5f97ee693a5a9c&amp;id=b2cd10112f"
+url: "http://pitchedsocial.us3.list-manage.com/subscribe/post?u=722db240a559bf5f377efe315&amp;id=dd9b015af2"
  //Replace ^ this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
 });
 
 function mailchimpCallback(resp) {
   if (resp.result === 'success') {
-    $('.subscription-success').html('<i class="fa fa-thumbs-o-up"></i>' + resp.msg).css("opacity","1");
+    $('.subscription-success').html('<i class="fa fa-thumbs-o-up"></i> Almost finished ... We need to confirm your email address.<br />  We are using MailChimp as a reputable mechanism for building lists.<br />To complete the petition process, please click the link in the email we just sent you.').css("opacity","1");
     $('.subscription-error').css("opacity","0");
   }
   else if (resp.result === 'error') {
