@@ -860,7 +860,7 @@
 <script type="text/javascript" src="assets/js/jquery.stellar.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.waypoints.min.js"></script>
 <script type="text/javascript" src="assets/js/inview.min.js"></script>
-<script type="text/javascript" src="assets/http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="assets/js/jquery.gmap.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
 <script type="text/javascript" src="assets/js/jquery.ajaxchimp.min.js"></script>
