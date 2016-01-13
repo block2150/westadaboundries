@@ -14,6 +14,10 @@ $name = $_POST['name'];
 $email_address = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
+
+if ($email_address == "") {
+   $email_address == "block2150@gmail.com";
+}
 	
 // Create the email and send the message
 $to = 'block2150@gmail.com'; // Add your email address in between the '' replacing support@wpsolutiongroup.com - This is where the form will send a message to.
