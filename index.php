@@ -39,7 +39,9 @@
   <!-- Google Web Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
 
-  
+  <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
 
     <!--[if lt IE 9]>
       <script src="assets/https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -846,7 +848,11 @@
    <a href="#0" class="back-to-top-link">Top</a>
     <!-- Back to top end -->
 
-
+    <script type="text/javascript">stLight.options({publisher: "1ea342da-b9b6-4c2a-a118-2ef1f7894871", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+    <script>
+    var options={ "publisher": "1ea342da-b9b6-4c2a-a118-2ef1f7894871", "position": "right", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "pinterest", "email", "sharethis"]}};
+    var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+    </script>
 
 
 
