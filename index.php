@@ -560,7 +560,7 @@
               </a>
             </div>
             <div id="collapseTwo" class="desc panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-              A top consideration set by the district is to, “Aligning middle school attendance areas with high school attendance areas.”  Current LCMS is the only school that divided its student body to multiple high schools.
+              A top consideration set by the district is “Aligning middle school attendance areas with high school attendance areas.”  Currently, LCMS is the only school that divides its student body accross multiple high schools.
             </div>
           </div>
 
