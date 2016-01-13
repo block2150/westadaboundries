@@ -390,7 +390,7 @@ $("#contact-form").submit(function (e) {
   var dataString = 'name=' + name + '&email=' + email + '&subject=' + subject + '&message=' + message;
   $.ajax({
     type: "POST",
-    url: "sendmail/mail.php",
+    url: "/sendmail/mail.php",
     data: dataString,
     success: function () {
       $('.form-success').css({"opacity" : "1"});

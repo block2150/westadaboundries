@@ -78,7 +78,7 @@
       <div class="social_container">
         <div class="social_wraper">
 
-          <ul class="social">
+          <!-- <ul class="social">
             <li><a href="#" target="_blank" class="fa fa-facebook facebook"></a></li>
             <li><a href="#" target="_blank" class="fa fa-twitter twitter"></a></li>
             <li class="social_blinker">
@@ -93,18 +93,19 @@
             <li><a href="#" target="_blank" class="fa fa-linkedin linkedin"></a></li>
             <li><a href="#" target="_blank" class="fa fa-pinterest pinterest"></a></li>
             <li><a href="#" target="_blank" class="fa fa-google-plus google-plus"></a></li>
-          </ul>
+          </ul> -->
         </div>
       </div>
 
       <div class="collapse navbar-collapse navMenuCollapse">
         <ul class="nav">
-          <li><a href="#services">Services</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="#pricing_table">Pricing</a></li>
-          <li><a href="#testimonial">Testimonial</a></li>
+          <li><a href="#goals">Goals</a></li>
+          <li><a href="#proposal">Proposal</a></li>
+          <li><a href="#landscape">Landscape</a></li>
+          <li><a href="#alternative">Alternative</a></li>
+          <li><a href="#tools">Tools</a></li>
+          <!-- <li><a href="#testimonial">Testimonial</a></li> -->
+          <li><a href="#contact">Thoughts</a></li>
         </ul>
       </div>
 
@@ -137,11 +138,11 @@
   <div class="container mar-bottom-1">
     <div class="row">
       <div class="col-md-7">
-      <!-- <img class="img-responsive" src="assets/img/background/intro-img.png" alt="Intro Image"> -->
+        <img class="img-responsive" src="assets/img/background/intro-img.png" alt="Intro Image">
       </div>
       <div class="col-md-5">
         <div class="caption" style="padding-top:20px;">
-          <h1 class="title">Community. <br><strong>Continuity.</strong> </h1>
+          <h1 class="title">Community. <strong>Continuity.</strong> </h1>
 
           <h2 class="subtitle">Any plan proposed and approved by the committee should address the well-being of our great students as top priority.</h2>
           <h2 class="subtitle">The purpose of this site is to illustrate how solutions exist that maintain continuity, a sense of community, and help students make the critical transition from middle school to high school surrounded by peers who they know and trust.</h2>
@@ -162,7 +163,7 @@
 
 
   <!-- features-grid -->
-  <section id="features" class="features-grid pad-top-1 pad-bottom-2 bb-1">
+  <section id="goals" class="features-grid pad-top-1 pad-bottom-2 bb-1">
     <div class="container">
 
       <header class="heading_1 text-center">
@@ -199,7 +200,7 @@
 
 
  <!-- about-us -->
- <section id="about" class="about-us padding gray-bg bb-1">
+ <section id="proposal" class="about-us padding gray-bg bb-1">
   <div class="container">
 
     <header class="heading_1 text-center">
@@ -230,6 +231,7 @@
           <div class="col-md-5 col-md-offset-1">
             <h4>KTVB News Coverage of the Boundary Proposal</h4>
             <p>"Changing attendance areas is always an emotional issue," West Ada School District spokesman Eric Exline told KTVB. "People are concerned about their kids getting separated from their peers, distance to schools, the affiliations that they've made for the schools."</p>      
+            <p><small>source: <a href="http://www.ktvb.com/story/news/education/2016/01/07/w-ada-schools-present-new-boundaries/78398078/" target="_blank">http://www.ktvb.com</a></small></p>
           </div>
 
         </div>
@@ -254,7 +256,7 @@
         <div class="row flex-row-center">
           <div class="col-md-6">
             <h4>Middle School Splits</h4>
-            <p>Middle Schools are considered "feeder schools" for each high school.  The current plan calls for uneven, and in some cases unnecessary, splits of three high schools.  The goal, as stated by the school district is an even 50-50 split.  Again, there is more work that needs to be done to acheive this goal.</p>
+            <p>Middle Schools are considered "feeder schools" for each high school.  The current plan calls for uneven, and in some cases unnecessary, splits of three middle schools.  The goal, as stated by the school district is an even 50-50 split.  Again, there is more work that needs to be done to achieve this goal.</p>
             <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
           </div>
           <div class="col-md-6">
@@ -272,7 +274,7 @@
           </div>
           <div class="col-md-5 col-md-offset-1">
             <h4>Simplicity</h4>
-            <p>Is simplicity the best or simply the easiest?  In this case we can acheive both.  The current plan seems to avoid this "simple" concept, specifically with regards to where our LCMS are sent for high school.  A closer look will reveal that there is more to do in order to achieve simplicity in where the boundaries are drawn.</p>
+            <p>Is simplicity the best or simply the easiest?  In this case we can acheive both.  The current plan seems to avoid this "simple" concept, specifically with regards to where students from LCMS are sent for high school.  A closer look will reveal that there is more to do in order to achieve simplicity in where the boundaries are drawn.</p>
             <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
           </div>
         </div>
@@ -291,7 +293,7 @@
 
 
  <!-- portfolio -->
- <section id="portfolio" class="portfolio  bg-color3 pad-top-1 bb-1">
+ <section id="landscape" class="portfolio  bg-color3 pad-top-1 bb-1">
 
   <header class="heading_1 text-center">
     <i class="icon icon-focus"></i>
@@ -448,7 +450,7 @@
 
 
 <!-- content-section -->
-<section id="content" class="content-section padding gray-bg bb-1">
+<section id="alternative" class="content-section padding gray-bg bb-1">
   <div class="container">
 
     <header class="heading_1 text-center">
@@ -465,15 +467,23 @@
         <div class="content_slide_1">
 
           <div class="item">
-            <img class="img-responsive" src="assets/img/background/bga.jpg" alt="Image">
+            <img class="img-responsive" src="assets/img/slides/Slide1.png" alt="Image">
           </div>
 
           <div class="item">
-            <img class="img-responsive" src="assets/img/background/bgb.jpg" alt="Image">
+            <img class="img-responsive" src="assets/img/slides/Slide5.png" alt="Image">
           </div>
 
           <div class="item">
-            <img class="img-responsive" src="assets/img/background/bgc.jpg" alt="Image">
+            <img class="img-responsive" src="assets/img/slides/Slide12.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide13.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide14.png" alt="Image">
           </div>
 
         </div>
@@ -485,42 +495,42 @@
         <div class="accordion" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel">
             <div class="title" id="headingOne">
-              <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Lorem Message
-                <p>First Message</p>
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Goal #1
+                <p>Balance</p>
               </a>
             </div>
             <div id="collapseOne" class="desc panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-              Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.
+              A statement made by the West Ada School District explained, "To achieve equal enrollment, all high schools would be 17% over capacity."
             </div>
           </div>
 
 
           <div class="panel">
             <div class="title" id="headingTwo">
-              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Lorem Message
-                <p>Second Message</p>
+              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Goal #2
+                <p>Community</p>
               </a>
             </div>
             <div id="collapseTwo" class="desc panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-              Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.
+              A top consideration set by the district is to, “Aligning middle school attendance areas with high school attendance areas.”  Current LCMS is the only school that divided its student body to multiple high schools.
             </div>
           </div>
 
 
           <div class="panel">
             <div class="title" id="headingThree">
-              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Lorem Message
-                <p>Third Message</p>
+              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Goal #3
+                <p>Continuity</p>
               </a>
             </div>
             <div id="collapseThree" class="desc panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-              Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.
+              Is simplicity the best or simply the easiest? In this case we can achieve both. The current plan seems to avoid this "simple" concept, specifically with regards to where LCMS students are sent for high school.
             </div>
           </div>
         </div>
 
 <p class="mar-top-1">
-  Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam 
+  Download the complete alternative plan.<br /><a href="/downloads/alternative-plan.pdf">PDF</a> | <a href="/downloads/alternative-plan.pptm">PPT</a> | <a href="/downloads/alternative-map.pdf">MAP</a>
 </p>
 
       </div>
@@ -535,384 +545,17 @@
 
 
 
-
- <!-- team -->
- <section id="team" class="team text-center padding">
-  <div class="container">
-
-    <header class="heading_1 text-center">
-      <i class="icon icon-lifesaver"></i>
-      <h2 class="main_title">
-        <span class="sub_title">People Who cares</span>
-        Our <span class="base-highlight">Team </span>
-      </h2>
-    </header>
-
-
-    <div class="row">
-      <div class="col-sm-4">
-        <div class="member-details">
-
-          <a href="#first_member" class="member_pop" title="ITEM TITLE" data-effect="mfp_zoom_out">
-            <img src="assets/img/team/team-9.jpg" alt="Team Member">
-            <div class="team-info">
-              <h4>Alex Potter</h4>
-              <h5 class="dull">Website Designer</h5>
-            </div>
-          </a>
-
-          <ul class="member_social">
-            <li><a href="#" target="_blank"><i class="fa fa-facebook facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-twitter twitter"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-linkedin linkedin"></i></a></li>
-          </ul>
-
-          <div id="first_member" class="container team_member_bio mfp-hide">
-            <div class="magnificPopUp_close">Close</div>
-            <div class="row flex-row-center">
-              <div class="col-md-6 member_image">
-                <img src="assets/img/team/team-9.jpg" alt="Image">
-              </div>
-              <div class="col-md-6 member_details">
-                <div class="cred">
-                  <h4 class="name">Alex Potter</h4>
-                  <span class="info">Website Designer -- </span>
-
-                  <ul class="member_social">
-                    <li><a href="#" target="_blank"><i class="fa fa-facebook facebook"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-twitter twitter"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-linkedin linkedin"></i></a></li>
-                  </ul>
-
-                </div>
-                <p class="about">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores beatae nesciunt cupiditate incidunt, quam fugiat perspiciatis fugit autem sit repudiandae nisi recusandae labore necessitatibus ipsam vero ratione laudantium hic, fuga! Odit aspernatur nihil deleniti quisquam fuga dolorem sit debitis? Deleniti cupiditate dolore aliquam non consectetur perferendis culpa quidem, aliquid dignissimos dicta vel quo quam voluptatem quae sit possimus dolor, magnam voluptas ad aut porro. Eligendi facilis ex quo, illo minima cumque praesentium dolorum perspiciatis.</p>
-              </div>
-            </div>
-          </div> <!-- hidden section appear on click -->
-        </div>
-      </div>
-
-
-      <div class="col-sm-4">
-        <div class="member-details">
-
-          <a href="#second_member" class="member_pop" data-effect="mfp_zoom_out">
-            <img src="assets/img/team/team-10.jpg" alt="Team Member">
-            <div class="team-info">
-              <h4>Peter Parker</h4>
-              <h5 class="dull">Website Developer</h5>
-            </div>
-          </a>
-
-          <ul class="member_social">
-            <li><a href="#" target="_blank"><i class="fa fa-facebook facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-twitter twitter"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-linkedin linkedin"></i></a></li>
-          </ul>
-
-          <div id="second_member" class="container team_member_bio mfp-hide">
-            <div class="magnificPopUp_close">Close</div>
-            <div class="row flex-row-center">
-              <div class="col-md-6 member_image">
-                <img src="assets/img/team/team-10.jpg" alt="Image">
-              </div>
-              <div class="col-md-6 member_details">
-                <div class="cred">
-                  <h4 class="name">Peter Parker</h4>
-                  <span class="info">Website Developer -- </span>
-
-                  <ul class="member_social">
-                    <li><a href="#" target="_blank"><i class="fa fa-facebook facebook"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-twitter twitter"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-linkedin linkedin"></i></a></li>
-                  </ul>
-
-                </div>
-                <p class="about">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam dolor quos atque autem voluptas maxime perspiciatis ipsum magnam aliquid, deserunt perferendis eos in odio nobis veniam numquam minima distinctio explicabo, itaque consequatur sunt soluta. Praesentium nostrum dignissimos nam voluptates amet autem tempore quibusdam quo blanditiis maiores. Qui debitis, quae ut quia totam ipsa voluptatum facilis dolorem nisi in impedit error animi officia exercitationem iure dolorum tempore ab, magni provident suscipit! Voluptatibus ducimus vitae sed?</p>
-              </div>
-            </div>
-          </div><!-- hidden section appear on click -->
-        </div>
-      </div>
-
-
-      <div class="col-sm-4">
-        <div class="member-details">
-
-          <a href="#third_member" class="member_pop" data-effect="mfp_zoom_out">
-            <img src="assets/img/team/team-11.jpg" alt="Team Member">
-            <div class="team-info">
-              <h4>Armoer Janson</h4>
-              <h5 class="dull">Wordpress Developer</h5>
-            </div>
-          </a>
-
-          <ul class="member_social">
-            <li><a href="#" target="_blank"><i class="fa fa-facebook facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-twitter twitter"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-linkedin linkedin"></i></a></li>
-          </ul>
-
-          <div id="third_member" class="container team_member_bio mfp-hide">
-            <div class="magnificPopUp_close">Close</div>
-            <div class="row flex-row-center">
-              <div class="col-md-6 member_image">
-                <img src="assets/img/team/team-11.jpg" alt="Image">
-              </div>
-              <div class="col-md-6 member_details">
-                <div class="cred">
-                  <h4 class="name">Armoer Janson</h4>
-                  <span class="info">Wordpress Developer -- </span>
-
-                  <ul class="member_social">
-                    <li><a href="#" target="_blank"><i class="fa fa-facebook facebook"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-twitter twitter"></i></a></li>
-                    <li><a href="#" target="_blank"><i class="fa fa-linkedin linkedin"></i></a></li>
-                  </ul>
-
-                </div>
-                <p class="about">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi nulla cupiditate, debitis autem. Ad, magnam, odio. Ab velit ullam, numquam! Vitae eos cumque quasi laborum, alias possimus! Facere aspernatur iusto voluptatibus tenetur natus dignissimos assumenda. Cumque sapiente minima pariatur eius fugit similique ab libero culpa doloribus nemo, animi veniam debitis sequi neque amet esse quis recusandae atque! Nostrum, ratione facilis illum repellendus, commodi fugiat dolor quia est perspiciatis in quasi quisquam nihil molestias esse?</p>
-              </div>
-            </div>
-          </div> <!-- hidden section appear on click -->
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section> 
-<!-- team -->
-
-
-
- <!-- content_4 -->
- <section class="content_4 single-padding gray-bg">
-  <div class="container">
-    <div class="row">
-
-      <div class="col-md-6">
-        <img src="assets/img/background/bg9.png" class="img-responsive" alt="Image">
-      </div>
-
-
-      <div class="col-md-6">
-        <header class="heading_2 mar-bottom-1">
-          <h2 class="main_title">New Features</h2>
-          <h4 class="sub_title">Some extra <span class="base-highlight">Love</span> from us</h4>
-          <p class="dull"> Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor.</p>
-        </header>
-
-        <div class="features row">
-          <ul class="part col-md-6">
-            <li><i class="fa fa-arrow-circle-o-right"></i>Modern Design</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Fully Responsive</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Bootstrap Grid</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Mailchimp Supported</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Easy To Customize</li>
-          </ul>
-
-          <ul class="part col-md-6">
-            <li><i class="fa fa-arrow-circle-o-right"></i>Powerful Options</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Fresh Colors</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Validated Code</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Ajax Supported Form</li>
-            <li><i class="fa fa-arrow-circle-o-right"></i>Best Typography</li>
-          </ul>
-        </div>
-
-        <div class="buttons_row mar-top-2">
-          <a href="#" class="btn btn-primary-black">Get Infinite Now</a>
-          <a href="#" class="read-more dull">View More</a>
-        </div>
-      </div>
-
-
-    </div>
-  </div>
-
-</section>
-<!-- content_4 end -->
-
-
- <!-- statistics -->
- <section id="statistics" class="statistics text-center">
-
-  <div class="counter_wraper single-padding cover-bg dark-bg" data-stellar-background-ratio="0.3" style="background-image:  url(assets/img/background/bg24.jpg);">
-    <div class="container">
-
-     <h3 class="h4 mar-bottom-1">70% People Belive Another Consumer's Opinion Posted Online</h3>      
-
-      <div class="row">
-
-        <div class="col-md-3 col-sm-6 count">
-          <i class="icon-facebook"></i>
-          <span data-from="500" data-to="5000" data-speed="5000"></span>
-          <p>Facebook Like</p>
-        </div>
-        <div class="col-md-3 col-sm-6 count">
-          <i class="icon-twitter"></i>
-          <span data-from="700" data-to="3000" data-speed="5000"></span>
-          <p>Twitter Follower</p>
-        </div>
-        <div class="col-md-3 col-sm-6 count">
-          <i class="icon-happy"></i>
-          <span data-from="100" data-to="900" data-speed="5000"></span>
-          <p>Happy Clients</p>
-        </div>
-        <div class="col-md-3 col-sm-6 count">
-          <i class="icon-globe"></i>
-          <span data-from="500" data-to="7000" data-speed="10000"></span>
-          <p>Money Earned</p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</section>
-<!-- statistics end -->
-
-
-
- <!-- subscribe -->
- <section class="subscribe single-padding cover-bg bb-1" style="background-image:  url(assets/img/background/bg8.jpg);">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-5 col-md-offset-7">
-        <h4 class="h3">Subscribe </h4>
-        <form class="mailchimp">
-          <div class="input-group">
-            <input class="email_input" type="email" name="email" placeholder="Enter your email">
-            <div class="input-group-btn">
-              <button type="submit" class="subscribe-submit"><i class="fa fa-envelope"></i></button>
-            </div>
-          </div>
-          <p class="mar-top-1">Subscribe to our weekly newsletter, We promise you that we wont spam you. Asperiores totam molestias eaque sunt maiores delectus modi ut ab!</p>
-          <h4 class="subscription-success notice">Success notice here</h4>
-          <h4 class="subscription-error notice">Error notice here</h4>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- subscribe end-->
-
-
-
- <!-- cta-3 call to action -->
- <section class="cta-3 text-center single-padding">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <p class="text-uppercase mar-bottom-1">Brought you by <a href="#"><strong>Infinite</strong></a></p>
-        <img class="mar-bottom-1" src="assets/img/logo/icon.png" alt="logo">
-        <h3 class="text-uppercase">DESIGN BETTER. FASTER. TOGETHER.</h3>
-        <p class="italic">The Infinite is most converting landing page ever, Everything you can wish for.</p>
-        <a href="#" class="btn btn-primary mar-top-1">Buy Now</a>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- cta-3 call to action  end -->
-
-
-
- <!-- pricing-table -->
- <section id="pricing_table" class="pricing-tables bg-color3 single-padding">
-  <div class="container  text-center">
-
-    <header class="heading_1 text-center">
-      <i class="icon icon-presentation"></i>
-      <h2 class="main_title">
-        <span class="sub_title">Product Packages</span>
-        Select your <span class="base-highlight">best deal !</span>
-      </h2>
-    </header>
-
-    <div class="row">
-      <div class="col-sm-4">
-        <div class="pricing-table padding">
-          <h5 class="text-uppercase">Basic</h5>
-          <h4 class="price">$59</h4>
-          <p class="lead">Per Month</p>
-          <ul>
-            <li><i class="icon-key"></i><strong>Unlimited</strong> Bandwidth</li>
-            <li><i class="icon-tools-2"></i><strong>Unlimited</strong> Space</li>
-            <li><i class="icon-lightbulb"></i><strong>One Time</strong> Fees</li>
-            <li><i class="icon-globe"></i><strong>24/7</strong> Free Support</li>
-            <li><i class="icon-mobile"></i><strong>Cpanel</strong> Access</li>
-          </ul>
-          <a class="btn btn-primary" href="#">Get Started</a>
-          <p>
-            30 Day One User
-            <br> Try Our Product Now
-          </p>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-
-        <div class="pricing-table suggested dark-bg padding">
-
-          <h5 class="text-uppercase">Premium</h5>
-          <h4 class="price">$99</h4>
-          <p class="lead">Per Month</p>
-          <ul>
-            <li><i class="icon-key"></i><strong>Unlimited</strong> Bandwidth</li>
-            <li><i class="icon-tools-2"></i><strong>Unlimited</strong> Space</li>
-            <li><i class="icon-lightbulb"></i><strong>One Time</strong> Fees</li>
-            <li><i class="icon-globe"></i><strong>24/7</strong> Free Support</li>
-            <li><i class="icon-mobile"></i><strong>Cpanel</strong> Access</li>
-          </ul>
-          <a class="btn btn-primary btn-primary-white" href="#">Get Started</a>
-          <p>
-            30 Day Starter Pack
-            <br> Try Our Product Now
-          </p>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="pricing-table padding">
-
-          <h5 class="text-uppercase">Ultimate</h5>
-          <h4 class="price">$149</h4>
-          <p class="lead">Per Month</p>
-          <ul>
-            <li><i class="icon-key"></i><strong>Unlimited</strong> Bandwidth</li>
-            <li><i class="icon-tools-2"></i><strong>Unlimited</strong> Space</li>
-            <li><i class="icon-lightbulb"></i><strong>One Time</strong> Fees</li>
-            <li><i class="icon-globe"></i><strong>24/7</strong> Free Support</li>
-            <li><i class="icon-mobile"></i><strong>Cpanel</strong> Access</li>
-          </ul>
-          <a class="btn btn-primary" href="#">Get Started</a>
-          <p>
-            30 Day Ultimate Pack
-            <br> Try Our Product Now
-          </p>
-        </div>
-      </div>
-    </div>
-    <p class="mar-top dull">Want to know more ? <a href="#">read article</a>, check <a href="#">FAQ</a>, or <a href="#contact" class="goto">contact us</a></p>
-  </div>
-</section>
-<!-- pricing-table -->
-
-
-
-
  <!-- cta-1 call to action -->
- <section class="cta-1 text-center single-padding">
+ <section id="tools" class="cta-1 text-center single-padding">
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-      <h2>Get it right now</h2>
-        <p>Supported By Every Platfrom <a href="#">know more</a></p>
+        <h2>Create Your Own Plan</h2>
+        <p>Use the excel spreadsheet below to create your own plan.  Have questions, <a href="#contact">let us know</a></p>
       </div>
 
       <div class="col-md-12 mar-top-1">
-        <a class="dwn-ld-btn" href="#"><i class="fa fa-apple"></i>Get From<b>App Store</b></a>
-        <a class="dwn-ld-btn" href="#"><i class="fa fa-android"></i>Get it on<b>Google play</b></a>
-        <a class="dwn-ld-btn" href="#"><i class="fa fa-windows"></i>Download for <b>Windows Phone</b></a>
+        <a class="dwn-ld-btn" href="/downloads/school-boundaries.xlsm"><i class="fa fa-file-excel-o"></i>Get it for Excel<b>With Scripted Macros Enabled</b></a>
       </div>
     </div>
   </div>
@@ -922,7 +565,7 @@
 
 
  <!-- client-testimonial testimonial -->
- <section id="testimonial" class="client-testimonial dark-bg text-center padding pad-bottom-2" data-stellar-background-ratio="0.3" style="background-image:  url(assets/img/background/bg12.jpg);">
+<!--  <section id="testimonial" class="client-testimonial dark-bg text-center padding pad-bottom-2" data-stellar-background-ratio="0.3" style="background-image:  url(assets/img/background/bg12.jpg);">
   <div class="container">
     <div class="row">
       
@@ -960,54 +603,20 @@
     
 
   </div>
-</section>
+</section> -->
 <!-- client-testimonial -->
 
  
- <!-- company -->
- <section class="padding bg-light-gray">
-  <div class="container">
-   <div class="row">
-
-<div class="col-md-2">
-  <h4 class="text-center base-highlight mar-top-1">Featured in -:</h4>
-</div>
-    <div class="col-md-10">
-        
-      <div class="company mar-top-1">
-        <div><img src="assets/img/company/5.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/6.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/7.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/8.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/9.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/10.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/11.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/5.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/6.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/7.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/8.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/9.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/10.png" alt="Client Company"></div>
-        <div><img src="assets/img/company/11.png" alt="Client Company"></div>
-
-
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-<!-- company end -->
-
 
  <!-- contact -->
- <section id="contact" class="contact cover-bg padding">
+ <section id="contact" class="contact padding gray-bg bb-1">
   <div class="container">
   
   <header class="heading_1 text-center">
       <i class="icon icon-chat"></i>
       <h2 class="main_title">
         <span class="sub_title">Contact Us</span>
-        Say <span class="base-highlight">Hello! </span>
+        Share Yourth <span class="base-highlight">Thoughts! </span>
       </h2>
     </header>
 
@@ -1077,22 +686,22 @@
                     <div class="col-sm-4">
                         <div class="content-contact">
                             <div class="icon"><i class="icon-phone"></i></div>
-                            <div class="key">Have a question?</div>
-                            <div class="val"><a href="tel:1234567890">+1 123 456 7890</a></div>
+                            <div class="key">West Ada School Disctict</div>
+                            <div class="val"><a href="tel:2088554500">(208) 855-4500</a></div>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="content-contact">
                             <div class="icon"><i class="icon-clock"></i></div>
                             <div class="key">Open Mon - Fri</div>
-                            <div class="val">08:00am to 8:00pm</div>
+                            <div class="val">09:00am to 4:00pm</div>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="content-contact">
                             <div class="icon"><i class="icon-chat"></i></div>
-                            <div class="key">Drop us an email</div>
-                            <div class="val"><a href="mailto:help@yourdomain.com">help@yourdomain.com</a></div>
+                            <div class="key">Eric Exline</div>
+                            <div class="val"><a href="mailto:exline.eric@westada.org">exline.eric@westada.org</a></div>
                         </div>
                     </div>
                 </div>
@@ -1107,14 +716,14 @@
 <section  class="cta-4 bg-color2 dark-bg">
   <div class="container">
     <div class="row flex-row-center">
-      <div class="col-md-9">
-        <h2 class="h3 fw-300 text-uppercase">Try Our <strong>Services</strong> Right Now </h2>
-        <p>The most appealing part of the theme it's very clean and light. And it reavels invidual.</p>
+      <div class="col-md-12">
+        <h2 class="h3 fw-300 text-uppercase">Community.  <strong>Continuity.</strong></h2>
+        <p>Any plan proposed and approved by the committee should address the well-being of our great students as top priority.</p>
+
+        <p>The purpose of this site is to illustrate how solutions exist that maintain continuity, a sense of community, and help students make the critical transition from middle school to high school surrounded by peers who they know and trust.</p>
+
       </div>
 
-      <div class="col-md-3">
-        <a href="#" class="btn btn-default-white">Purchase Now</a>
-      </div>
 
     </div>
   </div>
@@ -1132,24 +741,11 @@
 <footer class="footer bg-color1 padding dark-bg">
   <div class="container">
     <div class="row">
-      <div class="col-md-4 copyright">
-      <a href="#"><img class="logo" src="assets/img/logo/icon.png" alt="Footer logo"></a><span >© 2016 Infinite<br>
+      <div class="col-md-12 copyright">
+      <a href="#"><img class="logo" src="assets/img/logo/icon.png" alt="Footer logo"></a><span >© 2016 West Ada School Boundaries for Change<br>
+        <p>This site is owned an operated by a number of concerned parents. It is not affiliated with West Ada School Distrcit, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
 
-        Designed by <a class="home" href="http://www.wpsolutiongroup.com/" target="_blank">Naveen</a></span>
         </div>
-      <div class="col-md-8 text-right">
-        <ul class="soc-list">
-          <li><a href="#" target="_blank" class="fa fa-facebook facebook"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-twitter twitter"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-dribbble dribbble"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-behance behance"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-google-plus google-plus"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-linkedin linkedin"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-instagram instagram"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-pinterest pinterest"></a></li>
-          <li><a href="#" target="_blank" class="fa fa-flickr flickr"></a></li>
-        </ul>
-      </div>
       </div>
     </div>
   </footer>
