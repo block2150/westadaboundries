@@ -25,7 +25,7 @@ $to = 'block2150@gmail.com'; // Add your email address in between the '' replaci
 $email_subject = "Website Contact Form:  $name";
 $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nsubject: $subject\n\nMessage:\n$message";
 
-$headers = "From: $name\n";
+$headers = "From: $email_address\n";
 
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
