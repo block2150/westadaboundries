@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 
-  <title>West Ada School Boundary Proposal</title>
+  <title>West Ada School Boundary Proposal Information</title>
 
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="West Ada School Boundary Proposal">
+  <meta name="description" content="The purpose of this site is to illustrate how solutions exist that maintain continuity, a sense of community, and help students make the critical transition from middle school to high school surrounded by peers who they know and trust.">
   <meta name="keywords" content="west ada, school district, boundary, proposal">
-  <meta name="author" content="Truth about the West Ada School Boundary Propsal">
+  <meta name="author" content="This site is owned an operated by a number of concerned parents.  It is not affiliated with West Ada School District, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
   <!-- Favicon -->
