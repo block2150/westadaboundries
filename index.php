@@ -663,7 +663,7 @@
       <i class="icon icon-chat"></i>
       <h2 class="main_title">
         <span class="sub_title">Contact Us</span>
-        Share Yourth <span class="base-highlight">Thoughts! </span>
+        Share Your <span class="base-highlight">Thoughts! </span>
       </h2>
     </header>
 
