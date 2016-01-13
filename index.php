@@ -114,6 +114,7 @@
           <li><a href="#proposal">Proposal</a></li>
           <li><a href="#landscape">Landscape</a></li>
           <li><a href="#alternative">Alternative</a></li>
+          <li><a href="#petition">Petition</a></li>
           <li><a href="#tools">Tools</a></li>
           <!-- <li><a href="#testimonial">Testimonial</a></li> -->
           <li><a href="#contact">Thoughts</a></li>
@@ -158,9 +159,9 @@
           <h2 class="subtitle">Any plan proposed and approved by the committee should address the well-being of our great students as top priority.</h2>
           <h2 class="subtitle">The purpose of this site is to illustrate how solutions exist that maintain continuity, a sense of community, and help students make the critical transition from middle school to high school surrounded by peers who they know and trust.</h2>
 
-          <!-- <div class="button-box">
-            <a class="btn btn-primary" href="#">Purchase Now</a> <a class="btn btn-default" href="#">Check Others</a>
-          </div> -->
+          <div class="button-box">
+            <a class="btn btn-primary" href="#alternative">Alternative Plan</a> <a class="btn btn-default" href="#petition">Sign the Patition</a>
+          </div>
 
           <p class="desc">This site is owned an operated by a number of concerned parents.  It is not affiliated with West Ada School District, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
         </div>
