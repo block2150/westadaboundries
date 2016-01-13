@@ -12,29 +12,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
   <!-- Favicon -->
-  <link rel="shortcut icon" href="img/favicon/favicon.ico">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" type="image/x-icon" href="img/favicon/apple-touch-icon-144-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" type="image/x-icon" href="img/favicon/apple-touch-icon-114-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" type="image/x-icon" href="img/favicon/apple-touch-icon-72-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="57x57" type="image/x-icon" href="img/favicon/apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="assets/img/favicon/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" type="image/x-icon" href="assets/img/favicon/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" type="image/x-icon" href="assets/img/favicon/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" type="image/x-icon" href="assets/img/favicon/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" type="image/x-icon" href="assets/img/favicon/apple-touch-icon-57-precomposed.png">
 
   <!-- Bootstrap -->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 
 
   <!-- Font Icons -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="css/etlinefont.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/etlinefont.css">
   
   <!-- Animation -->
-  <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
   
   <!-- Slider -->
-  <link rel="stylesheet" type="text/css" href="css/slick.css"/>
-  <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
+  <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css"/>
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
   <!-- Google Web Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
@@ -42,8 +42,8 @@
   
 
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <script src="assets/https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="assets/https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
 </head>
@@ -54,7 +54,7 @@
   <!-- preloader -->
   <div class="pageloader gray-bg">
     <div class="loader">
-      <img src="img/logo/icon.png" alt="Company Logo" height="120">
+      <img src="assets/img/logo/icon.png" alt="Company Logo" height="120">
       <br>
       <span>West Ada School Boundary Proposal</span>
       <div class="sp-hydrogen"></div>
@@ -68,7 +68,7 @@
   <nav class="main-menu navbar navbar-down navbar-fixed-top">
     <div class="container">
 
-      <a class="navbar-brand goto" href="#"><img src="img/logo/icon.png" alt="Your logo"></a>
+      <a class="navbar-brand goto" href="#"><img src="assets/img/logo/icon.png" alt="Your logo"></a>
 
       <button type="button" class="navbar-toggle menu-collapse-btn collapsed" data-toggle="collapse" data-target=".navMenuCollapse">
         <span class="icon-bar"></span>
@@ -124,20 +124,20 @@
 
    <div class="slider-fade-bg">
     <div class="slide">
-      <div class="cover-bg fixed-bg" style="background-image: url(img/background/students-1.jpg);"></div>
+      <div class="cover-bg fixed-bg" style="background-image:  url(assets/img/background/students-1.jpg);"></div>
     </div>
     <div class="slide">
-      <div class="cover-bg fixed-bg" style="background-image: url(img/background/students-2.jpg);"></div>
+      <div class="cover-bg fixed-bg" style="background-image:  url(assets/img/background/students-2.jpg);"></div>
     </div>
     <div class="slide">
-      <div class="cover-bg fixed-bg" style="background-image: url(img/background/students-3.jpg);"></div>
+      <div class="cover-bg fixed-bg" style="background-image:  url(assets/img/background/students-3.jpg);"></div>
     </div>
   </div>
 
   <div class="container mar-bottom-1">
     <div class="row">
       <div class="col-md-7">
-      <!-- <img class="img-responsive" src="img/background/intro-img.png" alt="Intro Image"> -->
+      <!-- <img class="img-responsive" src="assets/img/background/intro-img.png" alt="Intro Image"> -->
       </div>
       <div class="col-md-5">
         <div class="caption" style="padding-top:20px;">
@@ -239,7 +239,7 @@
 
         <div class="row flex-row-center">
           <div class="col-md-6">
-            <img class="img-responsive" alt="Feature Image" src="img/proposal/overcrawding.png">
+            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/overcrawding.png">
           </div>
           <div class="col-md-5 col-md-offset-1">
             <h4>Balanced Enrollment and Overcrowding</h4>
@@ -258,7 +258,7 @@
             <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
           </div>
           <div class="col-md-6">
-            <img class="img-responsive" alt="Feature Image" src="img/proposal/feeder.png">
+            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/feeder.png">
           </div>
           
         </div>
@@ -268,7 +268,7 @@
 
         <div class="row flex-row-center">
           <div class="col-md-6">
-            <img class="img-responsive" alt="Feature Image" src="img/proposal/boundaries.png">
+            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/boundaries.png">
           </div>
           <div class="col-md-5 col-md-offset-1">
             <h4>Simplicity</h4>
@@ -308,8 +308,8 @@
         <li class="col-md-3 col-sm-6 item web_dev web-design">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/meridian.png" class="image_pop" title='Despite improvements to Meridian High, some within the West Ada district consider it to be "less desirable."'>
-              <img class="img-responsive" src="img/challenges/meridian.png" alt="Portfolio" />
+              <a href="assets/img/challenges/meridian.png" class="image_pop" title='Despite improvements to Meridian High, some within the West Ada district consider it to be "less desirable."'>
+              <img class="img-responsive" src="assets/img/challenges/meridian.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -323,8 +323,8 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/victory.png" class="image_pop" title="The current plan calls for a 75-25% split at Victory Middle School.  This split can be avoided by taking a closer look at other options.">
-              <img class="img-responsive" src="img/challenges/victory.png" alt="Portfolio" />
+              <a href="assets/img/challenges/victory.png" class="image_pop" title="The current plan calls for a 75-25% split at Victory Middle School.  This split can be avoided by taking a closer look at other options.">
+              <img class="img-responsive" src="assets/img/challenges/victory.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -339,8 +339,8 @@
         <li class="col-md-3 col-sm-6 item web_dev web-design">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/rocky.png" class="image_pop" title="The area surounding Rocky Mountain is densely populated making it difficult to reduce enrollment without a negative impact.">
-              <img class="img-responsive" src="img/challenges/rocky.png" alt="Portfolio" />
+              <a href="assets/img/challenges/rocky.png" class="image_pop" title="The area surounding Rocky Mountain is densely populated making it difficult to reduce enrollment without a negative impact.">
+              <img class="img-responsive" src="assets/img/challenges/rocky.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -354,8 +354,8 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/tuscany.png" class="image_pop" title="Information prematurely leaked allowed a bombardment of early feedback which circumvented our right to due process.">
-              <img class="img-responsive" src="img/challenges/tuscany.png" alt="Portfolio" />
+              <a href="assets/img/challenges/tuscany.png" class="image_pop" title="Information prematurely leaked allowed a bombardment of early feedback which circumvented our right to due process.">
+              <img class="img-responsive" src="assets/img/challenges/tuscany.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -371,8 +371,8 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/new.png" class="image_pop" title="The current plan is further complicated when the new high school is built south of the freeway.">
-              <img class="img-responsive" src="img/challenges/new.png" alt="Portfolio" />
+              <a href="assets/img/challenges/new.png" class="image_pop" title="The current plan is further complicated when the new high school is built south of the freeway.">
+              <img class="img-responsive" src="assets/img/challenges/new.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -389,8 +389,8 @@
       <li class="col-md-3 col-sm-6 item web_dev web-design">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/eagle.png" class="image_pop" title="Driving from Chinden to Eagle High presents an undue strain on families that would be moved out of the Rocky boundaries.">
-              <img class="img-responsive" src="img/challenges/eagle.png" alt="Portfolio" />
+              <a href="assets/img/challenges/eagle.png" class="image_pop" title="Driving from Chinden to Eagle High presents an undue strain on families that would be moved out of the Rocky boundaries.">
+              <img class="img-responsive" src="assets/img/challenges/eagle.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -405,8 +405,8 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/south.png" class="image_pop" title='Many south of the freeway feel, "Any move away from Mountain View is a bad one."  This opinion complicates solutions.'>
-              <img class="img-responsive" src="img/challenges/south.png" alt="Portfolio" />
+              <a href="assets/img/challenges/south.png" class="image_pop" title='Many south of the freeway feel, "Any move away from Mountain View is a bad one."  This opinion complicates solutions.'>
+              <img class="img-responsive" src="assets/img/challenges/south.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -420,8 +420,8 @@
         <li class="col-md-3 col-sm-6 item web_dev web-design">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/river-valley.png" class="image_pop" title="River Valley students are divided so many times they attend high school just with 6% of students with whom they begin school.">
-              <img class="img-responsive" src="img/challenges/river-valley.png" alt="Portfolio" />
+              <a href="assets/img/challenges/river-valley.png" class="image_pop" title="River Valley students are divided so many times they attend high school just with 6% of students with whom they begin school.">
+              <img class="img-responsive" src="assets/img/challenges/river-valley.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
@@ -465,15 +465,15 @@
         <div class="content_slide_1">
 
           <div class="item">
-            <img class="img-responsive" src="img/background/bga.jpg" alt="Image">
+            <img class="img-responsive" src="assets/img/background/bga.jpg" alt="Image">
           </div>
 
           <div class="item">
-            <img class="img-responsive" src="img/background/bgb.jpg" alt="Image">
+            <img class="img-responsive" src="assets/img/background/bgb.jpg" alt="Image">
           </div>
 
           <div class="item">
-            <img class="img-responsive" src="img/background/bgc.jpg" alt="Image">
+            <img class="img-responsive" src="assets/img/background/bgc.jpg" alt="Image">
           </div>
 
         </div>
@@ -554,7 +554,7 @@
         <div class="member-details">
 
           <a href="#first_member" class="member_pop" title="ITEM TITLE" data-effect="mfp_zoom_out">
-            <img src="img/team/team-9.jpg" alt="Team Member">
+            <img src="assets/img/team/team-9.jpg" alt="Team Member">
             <div class="team-info">
               <h4>Alex Potter</h4>
               <h5 class="dull">Website Designer</h5>
@@ -571,7 +571,7 @@
             <div class="magnificPopUp_close">Close</div>
             <div class="row flex-row-center">
               <div class="col-md-6 member_image">
-                <img src="img/team/team-9.jpg" alt="Image">
+                <img src="assets/img/team/team-9.jpg" alt="Image">
               </div>
               <div class="col-md-6 member_details">
                 <div class="cred">
@@ -597,7 +597,7 @@
         <div class="member-details">
 
           <a href="#second_member" class="member_pop" data-effect="mfp_zoom_out">
-            <img src="img/team/team-10.jpg" alt="Team Member">
+            <img src="assets/img/team/team-10.jpg" alt="Team Member">
             <div class="team-info">
               <h4>Peter Parker</h4>
               <h5 class="dull">Website Developer</h5>
@@ -614,7 +614,7 @@
             <div class="magnificPopUp_close">Close</div>
             <div class="row flex-row-center">
               <div class="col-md-6 member_image">
-                <img src="img/team/team-10.jpg" alt="Image">
+                <img src="assets/img/team/team-10.jpg" alt="Image">
               </div>
               <div class="col-md-6 member_details">
                 <div class="cred">
@@ -640,7 +640,7 @@
         <div class="member-details">
 
           <a href="#third_member" class="member_pop" data-effect="mfp_zoom_out">
-            <img src="img/team/team-11.jpg" alt="Team Member">
+            <img src="assets/img/team/team-11.jpg" alt="Team Member">
             <div class="team-info">
               <h4>Armoer Janson</h4>
               <h5 class="dull">Wordpress Developer</h5>
@@ -657,7 +657,7 @@
             <div class="magnificPopUp_close">Close</div>
             <div class="row flex-row-center">
               <div class="col-md-6 member_image">
-                <img src="img/team/team-11.jpg" alt="Image">
+                <img src="assets/img/team/team-11.jpg" alt="Image">
               </div>
               <div class="col-md-6 member_details">
                 <div class="cred">
@@ -691,7 +691,7 @@
     <div class="row">
 
       <div class="col-md-6">
-        <img src="img/background/bg9.png" class="img-responsive" alt="Image">
+        <img src="assets/img/background/bg9.png" class="img-responsive" alt="Image">
       </div>
 
 
@@ -737,7 +737,7 @@
  <!-- statistics -->
  <section id="statistics" class="statistics text-center">
 
-  <div class="counter_wraper single-padding cover-bg dark-bg" data-stellar-background-ratio="0.3" style="background-image: url(img/background/bg24.jpg);">
+  <div class="counter_wraper single-padding cover-bg dark-bg" data-stellar-background-ratio="0.3" style="background-image:  url(assets/img/background/bg24.jpg);">
     <div class="container">
 
      <h3 class="h4 mar-bottom-1">70% People Belive Another Consumer's Opinion Posted Online</h3>      
@@ -774,7 +774,7 @@
 
 
  <!-- subscribe -->
- <section class="subscribe single-padding cover-bg bb-1" style="background-image: url(img/background/bg8.jpg);">
+ <section class="subscribe single-padding cover-bg bb-1" style="background-image:  url(assets/img/background/bg8.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-md-5 col-md-offset-7">
@@ -804,7 +804,7 @@
     <div class="row">
       <div class="col-md-12">
         <p class="text-uppercase mar-bottom-1">Brought you by <a href="#"><strong>Infinite</strong></a></p>
-        <img class="mar-bottom-1" src="img/logo/icon.png" alt="logo">
+        <img class="mar-bottom-1" src="assets/img/logo/icon.png" alt="logo">
         <h3 class="text-uppercase">DESIGN BETTER. FASTER. TOGETHER.</h3>
         <p class="italic">The Infinite is most converting landing page ever, Everything you can wish for.</p>
         <a href="#" class="btn btn-primary mar-top-1">Buy Now</a>
@@ -922,14 +922,14 @@
 
 
  <!-- client-testimonial testimonial -->
- <section id="testimonial" class="client-testimonial dark-bg text-center padding pad-bottom-2" data-stellar-background-ratio="0.3" style="background-image: url(img/background/bg12.jpg);">
+ <section id="testimonial" class="client-testimonial dark-bg text-center padding pad-bottom-2" data-stellar-background-ratio="0.3" style="background-image:  url(assets/img/background/bg12.jpg);">
   <div class="container">
     <div class="row">
       
       <div class="col-md-12 testmonial_slider_1">
 
         <div class="testimonial">
-          <img src="img/testimonial/1.png" alt="Testimonial" class="mar-bottom-1 mar-cen">
+          <img src="assets/img/testimonial/1.png" alt="Testimonial" class="mar-bottom-1 mar-cen">
           <p class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
@@ -942,7 +942,7 @@
         </div>
 
         <div class="testimonial">
-          <img src="img/testimonial/2.png" alt="Testimonial" class="mar-bottom-1 mar-cen">
+          <img src="assets/img/testimonial/2.png" alt="Testimonial" class="mar-bottom-1 mar-cen">
           <p class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
@@ -975,20 +975,20 @@
     <div class="col-md-10">
         
       <div class="company mar-top-1">
-        <div><img src="img/company/5.png" alt="Client Company"></div>
-        <div><img src="img/company/6.png" alt="Client Company"></div>
-        <div><img src="img/company/7.png" alt="Client Company"></div>
-        <div><img src="img/company/8.png" alt="Client Company"></div>
-        <div><img src="img/company/9.png" alt="Client Company"></div>
-        <div><img src="img/company/10.png" alt="Client Company"></div>
-        <div><img src="img/company/11.png" alt="Client Company"></div>
-        <div><img src="img/company/5.png" alt="Client Company"></div>
-        <div><img src="img/company/6.png" alt="Client Company"></div>
-        <div><img src="img/company/7.png" alt="Client Company"></div>
-        <div><img src="img/company/8.png" alt="Client Company"></div>
-        <div><img src="img/company/9.png" alt="Client Company"></div>
-        <div><img src="img/company/10.png" alt="Client Company"></div>
-        <div><img src="img/company/11.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/5.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/6.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/7.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/8.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/9.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/10.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/11.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/5.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/6.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/7.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/8.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/9.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/10.png" alt="Client Company"></div>
+        <div><img src="assets/img/company/11.png" alt="Client Company"></div>
 
 
       </div>
@@ -1133,7 +1133,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4 copyright">
-      <a href="#"><img class="logo" src="img/logo/icon.png" alt="Footer logo"></a><span >© 2016 Infinite<br>
+      <a href="#"><img class="logo" src="assets/img/logo/icon.png" alt="Footer logo"></a><span >© 2016 Infinite<br>
 
         Designed by <a class="home" href="http://www.wpsolutiongroup.com/" target="_blank">Naveen</a></span>
         </div>
@@ -1165,21 +1165,21 @@
 
 
 <!-- Js Files -->
-<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/jquery.smooth-scroll.min.js"></script> 
-<script type="text/javascript" src="js/smoothscroll.js"></script>
-<script type="text/javascript" src="js/slick.min.js"></script>
-<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
-<script type="text/javascript" src="js/jquery.stellar.min.js"></script>
-<script type="text/javascript" src="js/jquery.waypoints.min.js"></script>
-<script type="text/javascript" src="js/inview.min.js"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript" src="js/jquery.gmap.min.js"></script>
-<script type="text/javascript" src="js/jquery.countTo.js"></script>
-<script type="text/javascript" src="js/jquery.ajaxchimp.min.js"></script>
-<script type="text/javascript" src="js/validator.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.smooth-scroll.min.js"></script> 
+<script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+<script type="text/javascript" src="assets/js/slick.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.stellar.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="assets/js/inview.min.js"></script>
+<script type="text/javascript" src="assets/http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="assets/js/jquery.gmap.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
+<script type="text/javascript" src="assets/js/jquery.ajaxchimp.min.js"></script>
+<script type="text/javascript" src="assets/js/validator.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
 
 </body>
 </html>
