@@ -1,4 +1,8 @@
 <?php
+
+error_reporting(-1);
+ini_set('display_errors', 1);
+
 header("HTTP/1.1 200 OK");
 
 require_once($_SERVER['DOCUMENT_ROOT']."/core/init.php");
