@@ -640,7 +640,7 @@
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
         <h2>Create Your Own Plan</h2>
-        <p>Use the excel spreadsheet below to create your own plan.  Have questions? <a href="#contact">Let us know.</a></p>
+        <p>Use the Excel spreadsheet below to create your own plan.  Have questions? <a href="#contact">Let us know.</a></p>
       </div>
 
       <div class="col-md-12 mar-top-1">
