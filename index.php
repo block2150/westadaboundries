@@ -718,33 +718,43 @@
 </section>
 
 
-  <section class="content-contact-section gray-bg">
-            <div class="container">
-                <div class="row right-row-border">
-                    <div class="col-sm-4">
-                        <div class="content-contact">
-                            <div class="icon"><i class="icon-phone"></i></div>
-                            <div class="key">West Ada School District</div>
-                            <div class="val"><a href="tel:2088554500">(208) 855-4500</a></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="content-contact">
-                            <div class="icon"><i class="icon-clock"></i></div>
-                            <div class="key">Open Mon - Fri</div>
-                            <div class="val">09:00am to 4:00pm</div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="content-contact">
-                            <div class="icon"><i class="icon-chat"></i></div>
-                            <div class="key">Eric Exline</div>
-                            <div class="val"><a href="mailto:exline.eric@westada.org">exline.eric@westada.org</a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+  <section class="content-contact-section">
+
+      <header class="heading_1 text-center">
+        <i class="icon icon-map-pin"></i>
+        <h2 class="main_title">
+          <span class="sub_title">Get Involved</span>
+          Send In Your <span class="base-highlight">Feedback</span>
+        </h2>
+      </header>
+
+
+      <div class="container">
+          <div class="row right-row-border">
+              <div class="col-sm-4">
+                  <div class="content-contact">
+                      <div class="icon"><i class="icon-phone"></i></div>
+                      <div class="key">West Ada School District</div>
+                      <div class="val"><a href="tel:2088554500">(208) 855-4500</a></div>
+                  </div>
+              </div>
+              <div class="col-sm-4">
+                  <div class="content-contact">
+                      <div class="icon"><i class="icon-clock"></i></div>
+                      <div class="key">Open Mon - Fri</div>
+                      <div class="val">09:00am to 4:00pm</div>
+                  </div>
+              </div>
+              <div class="col-sm-4">
+                  <div class="content-contact">
+                      <div class="icon"><i class="icon-chat"></i></div>
+                      <div class="key">Eric Exline</div>
+                      <div class="val"><a href="mailto:exline.eric@westada.org">exline.eric@westada.org</a></div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
         
 <!-- contact end -->
 
