@@ -658,18 +658,9 @@
     
       <div class="col-md-5">
 
-       <!-- GOOGLE MAP -->
-        <div class="google-map" 
-                    data-zoom="17" 
-                    data-address="96 Lajpat Nagar, New Delhi, India" 
-                    data-caption="96 Lajpat Nagar, New Delhi, India" 
-                    data-maptype="ROADMAP"
-                    data-popup="false"
-                    data-mapheight="345">
-                    <p>This will be replaced with the Google Map.</p>
-                </div><!-- end .google-map -->
-        
-    <!-- GOOGLE MAP END -->
+        <p>We want to encourage the committee and school board to keep the students and their well-being as the top priority.  In other words, do not force students to make this critical transition without the social support of their peer group. </p>
+
+        <p>Let's put personal agendas aside and keep the focus on our kids.</p>
 
       </div>
       
