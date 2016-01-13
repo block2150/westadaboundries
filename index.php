@@ -843,16 +843,16 @@
   </footer>
   <!-- footer end -->
 
+  <script type="text/javascript">stLight.options({publisher: "1ea342da-b9b6-4c2a-a118-2ef1f7894871", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+  <script>
+  var options={ "publisher": "1ea342da-b9b6-4c2a-a118-2ef1f7894871", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "pinterest", "email", "sharethis"]}};
+  var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+  </script>
+
 
    <!-- Back to top -->
    <a href="#0" class="back-to-top-link">Top</a>
     <!-- Back to top end -->
-
-    <script type="text/javascript">stLight.options({publisher: "1ea342da-b9b6-4c2a-a118-2ef1f7894871", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-    <script>
-    var options={ "publisher": "1ea342da-b9b6-4c2a-a118-2ef1f7894871", "position": "right", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "pinterest", "email", "sharethis"]}};
-    var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
-    </script>
 
 
 
