@@ -162,7 +162,7 @@
             <a class="btn btn-primary" href="#">Purchase Now</a> <a class="btn btn-default" href="#">Check Others</a>
           </div> -->
 
-          <p class="desc">This site is owned an operated by a number of concerned parents.  It is not affiliated with West Ada School Distrcit, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
+          <p class="desc">This site is owned an operated by a number of concerned parents.  It is not affiliated with West Ada School District, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
         </div>
 
       </div>
@@ -724,7 +724,7 @@
                     <div class="col-sm-4">
                         <div class="content-contact">
                             <div class="icon"><i class="icon-phone"></i></div>
-                            <div class="key">West Ada School Disctict</div>
+                            <div class="key">West Ada School District</div>
                             <div class="val"><a href="tel:2088554500">(208) 855-4500</a></div>
                         </div>
                     </div>
@@ -781,7 +781,7 @@
     <div class="row">
       <div class="col-md-12 copyright">
       <a href="#"><img class="logo" src="assets/img/logo/icon.png" alt="Footer logo"></a><span >© 2016 West Ada School Boundaries for Change<br>
-        <p>This site is owned an operated by a number of concerned parents. It is not affiliated with West Ada School Distrcit, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
+        <p>This site is owned an operated by a number of concerned parents. It is not affiliated with West Ada School District, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
 
         </div>
       </div>
