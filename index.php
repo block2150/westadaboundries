@@ -471,7 +471,43 @@
           </div>
 
           <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide2.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide3.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide4.png" alt="Image">
+          </div>
+
+          <div class="item">
             <img class="img-responsive" src="assets/img/slides/Slide5.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide6.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide7.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide8.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide9.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide10.png" alt="Image">
+          </div>
+
+          <div class="item">
+            <img class="img-responsive" src="assets/img/slides/Slide11.png" alt="Image">
           </div>
 
           <div class="item">
