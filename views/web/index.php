@@ -137,20 +137,20 @@
   <div class="container mar-bottom-1">
     <div class="row">
       <div class="col-md-7">
-      <img class="img-responsive" src="img/background/intro-img.png" alt="Intro Image">
+      <!-- <img class="img-responsive" src="img/background/intro-img.png" alt="Intro Image"> -->
       </div>
       <div class="col-md-5">
         <div class="caption" style="padding-top:20px;">
-          <h1 class="title">Keeping Kids <br><strong>Together</strong> </h1>
+          <h1 class="title">Community. <br><strong>Continuity.</strong> </h1>
 
-          <h2 class="subtitle">The current plan proposed by the committee is unbalanced and divisive.</h2>
-          <h2 class="subtitle">The purpose of this site is to help you understand the challenges and solutions that have are not being considered.</h2>
+          <h2 class="subtitle">Any plan proposed and approved by the committee should address the well-being of our great students as top priority.</h2>
+          <h2 class="subtitle">The purpose of this site is to illustrate how solutions exist that maintain continuity, a sense of community, and help students make the critical transition from middle school to high school surrounded by peers who they know and trust.</h2>
 
           <!-- <div class="button-box">
             <a class="btn btn-primary" href="#">Purchase Now</a> <a class="btn btn-default" href="#">Check Others</a>
           </div> -->
 
-          <p class="desc">This site is owned an opporated by a number of conserned parents.  It is not affiliated with West Ada School Distrcit, other then the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
+          <p class="desc">This site is owned an operated by a number of concerned parents.  It is not affiliated with West Ada School Distrcit, other than the fact that we live, eat, drink, sleep and attend school within its boundaries.</p>
         </div>
 
       </div>
@@ -179,17 +179,17 @@
         <div class="col-sm-4">
           <i class="icon-bargraph icon-color-1"></i>
           <h4>Balanced Enrollment</h4>
-          <p>The only way to reduce overcrowding is through balanced enrollment.  To achieve equal enrollment, all schools would be 17% over capacity.</p>
+          <p>The district has stated, "To achieve equal enrollment, all schools would be 17% over capacity."  We need a boundary plan that gets us as close to this goal as possible.</p>
         </div>
         <div class="col-sm-4">
           <i class="icon-piechart icon-color-2"></i>
-          <h4>Keeping Kids Together</h4>
-          <p>There are 4 middle schools that divide students into two or more high schools with completely uneven slpits.  We need to work harder at keeping kids together. </p>
+          <h4>Community</h4>
+          <p>The ideal ratio for middle schools who split their student body amongst high schools is 50-50.  We need to place as many middle school students with their peers as they make the complicated transition to high school. </p>
         </div>
         <div class="col-sm-4">
           <i class="icon-map icon-color-3"></i>
-          <h4>Boundaries that Make Sense</h4>
-          <p>The current boundary propsal is difficult to understand the reasoning behind the changes.  We need to look for solutions that make sense to the majority, not the individual. </p>
+          <h4>Continuity</h4>
+          <p>All West Ada high schools provide quality education and programs.  We need a solution that establishes logical boundaries and maintains student well-being as the top priority. </p>
         </div>
 
       </div>
@@ -212,9 +212,9 @@
 
     <ul class="nav nav-tabs alt">
       <li class="active"><a href="#first-tab" data-toggle="tab" aria-expanded="true">INTRODUCTION</a></li>
-      <li class=""><a href="#second-tab" data-toggle="tab" aria-expanded="false">BALANCED ENROLLMENT</a></li>
-      <li class=""><a href="#third-tab" data-toggle="tab" aria-expanded="false">KEEPING KIDS TOGETHER</a></li>
-      <li class=""><a href="#fourth-tab" data-toggle="tab" aria-expanded="false">BOUNDARIES THAT MAKE SENSE</a></li>
+      <li class=""><a href="#second-tab" data-toggle="tab" aria-expanded="false">BALANCE</a></li>
+      <li class=""><a href="#third-tab" data-toggle="tab" aria-expanded="false">COMMUNITY</a></li>
+      <li class=""><a href="#fourth-tab" data-toggle="tab" aria-expanded="false">CONTINUITY</a></li>
     </ul>
 
     <div class="tab-content alt">
@@ -243,7 +243,7 @@
           </div>
           <div class="col-md-5 col-md-offset-1">
             <h4>Balanced Enrollment and Overcrowding</h4>
-            <p>The current proposal tries to solve the balanced enrollment and overcrowding issue.  In the proposal it is stated that, "To achieve equal enrollment, all schools would be 17% over capacity."  As you can see there plan offered comes close, but there is much more work to do to balance the enrollment.</p>
+            <p>The current proposal tries to solve the balanced enrollment and overcrowding issue.  In the proposal it is stated that, "To achieve equal enrollment, all schools would be 17% over capacity."  As you can see, the plan offered makes progress toward that ideal, but there is much more work to do to balance the enrollment.</p>
             <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
           </div>
         </div>
@@ -254,7 +254,7 @@
         <div class="row flex-row-center">
           <div class="col-md-6">
             <h4>Middle School Splits</h4>
-            <p>Middle Schools are considered "feeder schools" for each high school.  The current plan calls for uneven, and in some cases unessesary, splits of four high schools.  The goal, as stated by the school district is an even 50-50 split.  Again, there is more work that needs to be do to acheive that goal.</p>
+            <p>Middle Schools are considered "feeder schools" for each high school.  The current plan calls for uneven, and in some cases unnecessary, splits of three high schools.  The goal, as stated by the school district is an even 50-50 split.  Again, there is more work that needs to be done to acheive this goal.</p>
             <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
           </div>
           <div class="col-md-6">
@@ -271,8 +271,8 @@
             <img class="img-responsive" alt="Feature Image" src="img/proposal/boundaries.png">
           </div>
           <div class="col-md-5 col-md-offset-1">
-            <h4>K.I.S.S. Therory</h4>
-            <p>We have all heard the and understand the KISS therory.  The current plan seems to avoid this "simple" concpet all together, specifically when you look at the division of LCMS between Centenial and Meridian.  A closer look will revel that the is more to do in order to acheive more logical boundaries that are easy to understand.</p>
+            <h4>Simplicity</h4>
+            <p>Is simplicity the best or simply the easiest?  In this case we can acheive both.  The current plan seems to avoid this "simple" concept, specifically with regards to where our LCMS are sent for high school.  A closer look will reveal that there is more to do in order to achieve simplicity in where the boundaries are drawn.</p>
             <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
           </div>
         </div>
@@ -296,8 +296,8 @@
   <header class="heading_1 text-center">
     <i class="icon icon-focus"></i>
     <h2 class="main_title">
-      <span class="sub_title">MORE CHALLENGES</span>
-      A Closer <span class="base-highlight">Look</span>
+      <span class="sub_title">THE CURRENT LANDSCAPE</span>
+      Some of Your <span class="base-highlight">Concerns</span>
     </h2>
   </header>
 
@@ -308,13 +308,13 @@
         <li class="col-md-3 col-sm-6 item web_dev web-design">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/meridian.png" class="image_pop" title="Although Meridian High is being renovated, most people within the West Ada it is still considered to be less desireable.">
+              <a href="img/challenges/meridian.png" class="image_pop" title='Despite improvements to Meridian High, some within the West Ada district consider it to be "less desirable."'>
               <img class="img-responsive" src="img/challenges/meridian.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
 
-              <span>Although Meridian High is being renovated, most people within the West Ada it is still considered to be less desireable.</span>
+              <span>Despite improvements to Meridian High, some within the West Ada district consider it to be "less desirable."</span>
               
             </div>
           </div>
@@ -323,13 +323,13 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/victory.png" class="image_pop" title="The current plan calls for a 75-25% of Victory Middle School.  This split can be avoided by taking a closer look at options.">
+              <a href="img/challenges/victory.png" class="image_pop" title="The current plan calls for a 75-25% split at Victory Middle School.  This split can be avoided by taking a closer look at other options.">
               <img class="img-responsive" src="img/challenges/victory.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
 
-              <span>The current plan calls for a 75-25% of Victory Middle School.  This split can be avoided by taking a closer look at options.</span>
+              <span>The current plan calls for a 75-25% split at Victory Middle School.  This split can be avoided by taking a closer look at other options.</span>
               
             </div>
           </div>
@@ -354,13 +354,13 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/tuscany.png" class="image_pop" title="Information prematurely leeked from the committee allowed for premature feedback to the school district unfairly altering plans.">
+              <a href="img/challenges/tuscany.png" class="image_pop" title="Information prematurely leaked allowed a bombardment of early feedback which circumvented our right to due process.">
               <img class="img-responsive" src="img/challenges/tuscany.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
 
-              <span>Information prematurely leaked from the committee allowed a bombardment of early feedback and unfairly altering plans.</span>
+              <span>Information prematurely leaked allowed a bombardment of early feedback which circumvented our right to due process.</span>
               
             </div>
           </div>
@@ -371,13 +371,13 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/new.png" class="image_pop" title="The current plan doesn't consideration of boundaries and "boucing" students when the new high school is built south of 84.">
+              <a href="img/challenges/new.png" class="image_pop" title="The current plan is further complicated when the new high school is built south of the freeway.">
               <img class="img-responsive" src="img/challenges/new.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
 
-              <span>The current plan doesn't consideration of boundaries and "boucing" students when the new high school is built south of 84.</span>
+              <span>The current plan is further complicated when the new high school is built south of the freeway.</span>
               
             </div>
           </div>
@@ -405,13 +405,13 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/south.png" class="image_pop" title="The general concenus south of the freeway is any move away from Moutain View is a bad move.  This will limit any solution.">
+              <a href="img/challenges/south.png" class="image_pop" title='Many south of the freeway feel, "Any move away from Mountain View is a bad one."  This opinion complicates solutions.'>
               <img class="img-responsive" src="img/challenges/south.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
 
-              <span>The general concenus south of the freeway is any move away from Moutain View is a bad move.  This limits any and all solution.</span>
+              <span>Many south of the freeway feel, "Any move away from Mountain View is a bad one."  This opinion complicates solutions.</span>
               
             </div>
           </div>
@@ -420,13 +420,13 @@
         <li class="col-md-3 col-sm-6 item web_dev web-design">
           <div class="item-wrapper">
             <div class="image">
-              <a href="img/challenges/river-valley.png" class="image_pop" title="Students at River Valley Elm. are divided so many times they only attend high school with 6% of students they started with.">
+              <a href="img/challenges/river-valley.png" class="image_pop" title="River Valley students are divided so many times they attend high school just with 6% of students with whom they begin school.">
               <img class="img-responsive" src="img/challenges/river-valley.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
 
-              <span>Students at River Valley Elm. are divided so many times they only attend high school with 6% of students they started with. </span>
+              <span>River Valley students are divided so many times they attend high school just with 6% of students with whom they begin school. </span>
               
             </div>
           </div>
@@ -452,10 +452,10 @@
   <div class="container">
 
     <header class="heading_1 text-center">
-      <i class="icon icon-clipboard"></i>
+      <i class="icon icon-presentation"></i>
       <h2 class="main_title">
-        <span class="sub_title">A Different Opinion</span>
-        Looking at the <span class="base-highlight">Numbers</span>
+        <span class="sub_title">A Simple Solution</span>
+        A <span class="base-highlight">Numbers-based</span> Approach
       </h2>
     </header>
 
