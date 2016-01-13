@@ -148,7 +148,7 @@ $('.content_slide_1').slick({
   verticalSwiping: true,
   infinite: true,
   arrows: false,
-  dots: true,
+  dots: false,
   adaptiveHeight:true
 });
 

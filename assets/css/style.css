@@ -79,6 +79,7 @@ ______________________________
   opacity:1;
   overflow: hidden;
   display: table;
+  line-height: 50px
 }
 .loader {
   text-align: center;
