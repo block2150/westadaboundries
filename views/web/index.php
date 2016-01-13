@@ -198,16 +198,264 @@
   <!-- features-grid end -->
 
 
+ <!-- about-us -->
+ <section id="about" class="about-us padding gray-bg bb-1">
+  <div class="container">
+
+    <header class="heading_1 text-center">
+      <i class="icon icon-streetsign"></i>
+      <h2 class="main_title">
+        <span class="sub_title">Current Proposal</span>
+        Looking for a  <span class="base-highlight">Solution</span>
+      </h2>
+    </header>
+
+    <ul class="nav nav-tabs alt">
+      <li class="active"><a href="#first-tab" data-toggle="tab" aria-expanded="true">INTRODUCTION</a></li>
+      <li class=""><a href="#second-tab" data-toggle="tab" aria-expanded="false">BALANCED ENROLLMENT</a></li>
+      <li class=""><a href="#third-tab" data-toggle="tab" aria-expanded="false">KEEPING KIDS TOGETHER</a></li>
+      <li class=""><a href="#fourth-tab" data-toggle="tab" aria-expanded="false">BOUNDARIES THAT MAKE SENSE</a></li>
+    </ul>
+
+    <div class="tab-content alt">
+      <div class="tab-pane fade active in" id="first-tab">
+
+        <div class="row flex-row-center">
+          <div class="col-md-6">
+            <div class="embed-video-container embed-responsive embed-responsive-16by9">
+              <object id="flashObj" width="480" height="270" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=4688928001001&playerID=3615632433001&playerKey=AQ~~,AAADSfuNQ3k~,5bO9F2ttkqv21-8yrWXDJAm6M6MfB6sv&domain=embed&dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=4688928001001&playerID=3615632433001&playerKey=AQ~~,AAADSfuNQ3k~,5bO9F2ttkqv21-8yrWXDJAm6M6MfB6sv&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="480" height="270" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+            </div>    
+          </div>
+
+          <div class="col-md-5 col-md-offset-1">
+            <h4>KTVB News Coverage of the Boundary Proposal</h4>
+            <p>"Changing attendance areas is always an emotional issue," West Ada School District spokesman Eric Exline told KTVB. "People are concerned about their kids getting separated from their peers, distance to schools, the affiliations that they've made for the schools."</p>      
+          </div>
+
+        </div>
+      </div>
+
+      <div class="tab-pane fade" id="second-tab">
+
+        <div class="row flex-row-center">
+          <div class="col-md-6">
+            <img class="img-responsive" alt="Feature Image" src="img/proposal/overcrawding.png">
+          </div>
+          <div class="col-md-5 col-md-offset-1">
+            <h4>Balanced Enrollment and Overcrowding</h4>
+            <p>The current proposal tries to solve the balanced enrollment and overcrowding issue.  In the proposal it is stated that, "To achieve equal enrollment, all schools would be 17% over capacity."  As you can see there plan offered comes close, but there is much more work to do to balance the enrollment.</p>
+            <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="tab-pane fade" id="third-tab">
+        <div class="row flex-row-center">
+          <div class="col-md-6">
+            <h4>Middle School Splits</h4>
+            <p>Middle Schools are considered "feeder schools" for each high school.  The current plan calls for uneven, and in some cases unessesary, splits of four high schools.  The goal, as stated by the school district is an even 50-50 split.  Again, there is more work that needs to be do to acheive that goal.</p>
+            <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
+          </div>
+          <div class="col-md-6">
+            <img class="img-responsive" alt="Feature Image" src="img/proposal/feeder.png">
+          </div>
+          
+        </div>
+      </div>  
+
+      <div class="tab-pane fade" id="fourth-tab">
+
+        <div class="row flex-row-center">
+          <div class="col-md-6">
+            <img class="img-responsive" alt="Feature Image" src="img/proposal/boundaries.png">
+          </div>
+          <div class="col-md-5 col-md-offset-1">
+            <h4>K.I.S.S. Therory</h4>
+            <p>We have all heard the and understand the KISS therory.  The current plan seems to avoid this "simple" concpet all together, specifically when you look at the division of LCMS between Centenial and Meridian.  A closer look will revel that the is more to do in order to acheive more logical boundaries that are easy to understand.</p>
+            <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- about-us end -->
+
+
+
+
+
+
+
+ <!-- portfolio -->
+ <section id="portfolio" class="portfolio  bg-color3 pad-top-1 bb-1">
+
+  <header class="heading_1 text-center">
+    <i class="icon icon-focus"></i>
+    <h2 class="main_title">
+      <span class="sub_title">MORE CHALLENGES</span>
+      A Closer <span class="base-highlight">Look</span>
+    </h2>
+  </header>
+
+  
+  <div id="grid-container" class="bg-color1">
+      <ul class="row">
+      
+        <li class="col-md-3 col-sm-6 item web_dev web-design">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/meridian.png" class="image_pop" title="Although Meridian High is being renovated, most people within the West Ada it is still considered to be less desireable.">
+              <img class="img-responsive" src="img/challenges/meridian.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+
+              <span>Although Meridian High is being renovated, most people within the West Ada it is still considered to be less desireable.</span>
+              
+            </div>
+          </div>
+        </li>
+  
+      <li class="col-md-3 col-sm-6 item web-design uncategorized">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/victory.png" class="image_pop" title="The current plan calls for a 75-25% of Victory Middle School.  This split can be avoided by taking a closer look at options.">
+              <img class="img-responsive" src="img/challenges/victory.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+
+              <span>The current plan calls for a 75-25% of Victory Middle School.  This split can be avoided by taking a closer look at options.</span>
+              
+            </div>
+          </div>
+        </li>
+
+
+        <li class="col-md-3 col-sm-6 item web_dev web-design">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/rocky.png" class="image_pop" title="The area surounding Rocky Mountain is densely populated making it difficult to reduce enrollment without a negative impact.">
+              <img class="img-responsive" src="img/challenges/rocky.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+              <span>The area around Rocky Mountain is densely populated making it difficult to reduce enrollment without a negative impact.</span>
+              
+              
+            </div>
+          </div>
+        </li>
+
+      <li class="col-md-3 col-sm-6 item web-design uncategorized">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/tuscany.png" class="image_pop" title="Information prematurely leeked from the committee allowed for premature feedback to the school district unfairly altering plans.">
+              <img class="img-responsive" src="img/challenges/tuscany.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+
+              <span>Information prematurely leaked from the committee allowed a bombardment of early feedback and unfairly altering plans.</span>
+              
+            </div>
+          </div>
+        </li>
+
+
+  
+      <li class="col-md-3 col-sm-6 item web-design uncategorized">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/new.png" class="image_pop" title="The current plan doesn't consideration of boundaries and "boucing" students when the new high school is built south of 84.">
+              <img class="img-responsive" src="img/challenges/new.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+
+              <span>The current plan doesn't consideration of boundaries and "boucing" students when the new high school is built south of 84.</span>
+              
+            </div>
+          </div>
+        </li>
+  
+
+
+  
+      <li class="col-md-3 col-sm-6 item web_dev web-design">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/eagle.png" class="image_pop" title="Driving from Chinden to Eagle High presents an undue strain on families that would be moved out of the Rocky boundaries.">
+              <img class="img-responsive" src="img/challenges/eagle.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+
+              <span>Driving from Chinden to Eagle High presents an undue strain on families that would be moved out of the Rocky boundaries.</span>
+              
+            </div>
+          </div>
+        </li>
+
+
+      <li class="col-md-3 col-sm-6 item web-design uncategorized">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/south.png" class="image_pop" title="The general concenus south of the freeway is any move away from Moutain View is a bad move.  This will limit any solution.">
+              <img class="img-responsive" src="img/challenges/south.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+
+              <span>The general concenus south of the freeway is any move away from Moutain View is a bad move.  This limits any and all solution.</span>
+              
+            </div>
+          </div>
+        </li>
+
+        <li class="col-md-3 col-sm-6 item web_dev web-design">
+          <div class="item-wrapper">
+            <div class="image">
+              <a href="img/challenges/river-valley.png" class="image_pop" title="Students at River Valley Elm. are divided so many times they only attend high school with 6% of students they started with.">
+              <img class="img-responsive" src="img/challenges/river-valley.png" alt="Portfolio" />
+              </a>
+            </div>
+            <div class="text">
+
+              <span>Students at River Valley Elm. are divided so many times they only attend high school with 6% of students they started with. </span>
+              
+            </div>
+          </div>
+        </li>
+
+
+  
+
+    
+    </ul>
+    
+
+    
+    
+  </div>
+  
+</section>
+<!-- portfolio end -->
+
 
 <!-- content-section -->
-<section id="content" class="content-section padding">
+<section id="content" class="content-section padding gray-bg bb-1">
   <div class="container">
 
     <header class="heading_1 text-center">
       <i class="icon icon-clipboard"></i>
       <h2 class="main_title">
-        <span class="sub_title">Content Description</span>
-        Our <span class="base-highlight">Contents</span>
+        <span class="sub_title">A Different Opinion</span>
+        Looking at the <span class="base-highlight">Numbers</span>
       </h2>
     </header>
 
@@ -285,448 +533,6 @@
 
 
 
-
-<!-- services -->
-<section id="services" class="services padding gray-bg" data-stellar-background-ratio="0.3">
-  <div class="container">
-
-    <header class="heading_1 text-center">
-      <i class="icon icon-tools"></i>
-      <h2 class="main_title">
-        <span class="sub_title">Choose your required service from here</span>
-        Services We <span class="base-highlight">Provide</span>
-      </h2>
-    </header>
-
-
-    <div class="row">
-
-     <div class="col-md-4 service-category col-sm-6">
-      <div class="main-service">
-        <h4>Web Design</h4>
-        <i class="icon-gift icon-color-1"></i>
-        <div class="sub-services">
-          <h4>Web Design</h4>
-          <ul>
-            <li><a href="#">PSD TO HTML</a></li>
-            <li><a href="#">Adaptive Web Design</a></li>
-            <li><a href="#">Responsive Web Design</a></li>
-          </ul>
-        </div>
-      </div>
-      
-    </div> 
-
-    <div class="col-md-4 service-category col-sm-6">
-      <div class="main-service">
-        <h4>Web Development</h4>
-        <i class="icon-mobile icon-color-2"></i>
-        <div class="sub-services">
-          <h4>Web Development</h4>
-          <ul>
-            <li><a href="#">Larvel</a></li>
-            <li><a href="#">Symphony</a></li>
-            <li><a href="#">WordPress</a></li>
-          </ul>
-        </div>
-      </div>
-      
-    </div> 
-
-
-
-    <div class="col-md-4 service-category col-sm-6">
-      <div class="main-service">
-        <h4>Web Maintenance</h4>
-        <i class="icon-tools icon-color-3"></i>
-        <div class="sub-services">
-          <h4>Web Maintenance</h4>
-          <ul>
-            <li><a href="#">Speeding Up</a></li>
-            <li><a href="#">Server Maintain</a></li>
-
-            <li><a href="#">System Management</a></li>
-          </ul>
-        </div>
-      </div>
-      
-    </div> 
-
-    <div class="col-md-4 service-category col-sm-6">
-      <div class="main-service">
-        <h4>Project Management</h4>
-        <i class="icon-paintbrush icon-color-4"></i>
-        <div class="sub-services">
-          <h4>Project Management</h4>
-          <ul>
-            <li><a href="#">Strategy Development </a></li>
-            <li><a href="#">Project Manager</a></li>
-            <li><a href="#">PM Training</a></li>
-          </ul>
-        </div>
-      </div>
-      
-    </div> 
-
-    <div class="col-md-4 service-category col-sm-6">
-      <div class="main-service">
-        <h4>Graphic Design</h4>
-        <i class="icon-lightbulb icon-color-5"></i>
-        <div class="sub-services">
-          <h4>Graphic Design</h4>
-          <ul>
-            <li><a href="#">Logo Design</a></li>
-            <li><a href="#">Product Design</a></li>
-            <li><a href="#">Item Redesign</a></li>
-          </ul>
-        </div>
-      </div>
-      
-    </div> 
-
-    <div class="col-md-4 service-category col-sm-6">
-      <div class="main-service">
-        <h4>Brand Design</h4>
-        <i class="icon-video icon-color-6"></i>
-        <div class="sub-services">
-          <h4>Brand Design</h4>
-          <ul>
-            <li><a href="#">Digital Design</a></li>
-            <li><a href="#">Creative Talking</a></li>
-            <li><a href="#">Branding</a></li>
-          </ul>
-        </div>
-      </div>
-      
-    </div> 
-
-
-
-  </div>
-</div>
-</section>
-<!-- services end -->
-
-
- <!-- about-us -->
- <section id="about" class="about-us padding">
-  <div class="container">
-
-    <header class="heading_1 text-center">
-      <i class="icon icon-genius"></i>
-      <h2 class="main_title">
-        <span class="sub_title">Product Features</span>
-        What Our <span class="base-highlight">Features..</span>
-      </h2>
-    </header>
-
-    <ul class="nav nav-tabs alt">
-      <li class="active"><a href="#first-tab" data-toggle="tab" aria-expanded="true">INTRODUCTION</a></li>
-      <li class=""><a href="#second-tab" data-toggle="tab" aria-expanded="false">ABOUT</a></li>
-      <li class=""><a href="#third-tab" data-toggle="tab" aria-expanded="false">FEATURES</a></li>
-    </ul>
-
-    <div class="tab-content alt">
-      <div class="tab-pane fade active in" id="first-tab">
-
-        <div class="row flex-row-center">
-          <div class="col-md-6">
-            <div class="embed-video-container embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/98410802?color=1ac6ff&amp;title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>    
-          </div>
-
-          <div class="col-md-5 col-md-offset-1">
-            <h4>Take a sneak peek at our<br>videos, for once.</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores explicabo beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur ex modi aperiam. Quae, itaque.</p>      
-          </div>
-
-        </div>
-      </div>
-
-      <div class="tab-pane fade" id="second-tab">
-
-        <div class="row flex-row-center">
-          <div class="col-md-6">
-            <img class="img-responsive" alt="Feature Image" src="img/background/bg7.jpg">
-          </div>
-          <div class="col-md-5 col-md-offset-1">
-            <h4>Great work starts with <br>great team</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores explicabo beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur</p>
-            <a href="#" class="read-more">Read More</a>
-          </div>
-        </div>
-
-      </div>
-
-      <div class="tab-pane fade" id="third-tab">
-        <div class="row flex-row-center">
-          <div class="col-md-6">
-            <h4>Great work starts with <br>great team</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam. Maiores explicabo  beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur</p>
-            <a href="#" class="read-more">Read More</a>
-          </div>
-          <div class="col-md-6">
-            <img class="img-responsive" alt="Feature Image" src="img/background/bg20.png">
-          </div>
-          
-        </div>
-      </div>  
-
-    </div>
-  </div>
-</section>
-<!-- about-us end -->
-
-
-
-
- <!-- portfolio -->
- <section id="portfolio" class="portfolio  bg-color3 pad-top-1">
-
-  <header class="heading_1 text-center">
-    <i class="icon icon-mobile"></i>
-    <h2 class="main_title">
-      <span class="sub_title">Portfolio</span>
-      Our <span class="base-highlight">Works</span>
-    </h2>
-  </header>
-
-  <div id="filters-container" class="filters container pad-bottom-2">
-    <button type="button" data-filter="*" class="filter-item-active filter-item tooltip-x">
-      All
-      <span class="tooltip-x-content">
-        <span class="tooltip-x-front"><i class="fa fa-check"></i></span>
-        <span class="tooltip-x-back">*<br>All<br>Items</span>
-      </span>
-    </button>
-    
-
-    <button type="button" data-filter=".web-design" class="filter-item  tooltip-x">Web Design
-      <span class="tooltip-x-content">
-        <span class="tooltip-x-front"><i class="fa fa-css3"></i></span>
-        <span class="tooltip-x-back">5<br>Web Design<br>Item</span>
-      </span>
-    </button>
-
-    <button type="button" data-filter=".web_dev" class="filter-item  tooltip-x">Web Development
-      <span class="tooltip-x-content">
-        <span class="tooltip-x-front"><i class="fa fa-code"></i></span>
-        <span class="tooltip-x-back">4<br>Web Dev<br>Item</span>
-      </span>
-    </button>
-
-    
-    <button type="button" data-filter=".uncategorized" class="filter-item  tooltip-x">Uncategorized
-      <span class="tooltip-x-content">
-        <span class="tooltip-x-front"><i class="fa fa-list"></i></span>
-        <span class="tooltip-x-back">2<br>Uncategorized<br>Item</span>
-      </span>
-    </button>
-  </div>
-  
-  <div id="grid-container" class="bg-color1">
-      <ul class="row">
-      
-        <li class="col-md-3 col-sm-6 item web_dev web-design">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg3.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg3.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-
-        <li class="col-md-3 col-sm-6 item web_dev web-design">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg5.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg5.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-
-
-  
-      <li class="col-md-3 col-sm-6 item web_dev web-design">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg9.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg9.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-
-        <li class="col-md-3 col-sm-6 item web_dev web-design">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg11.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg11.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-
-
-  
-      <li class="col-md-3 col-sm-6 item web-design uncategorized">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg4.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg4.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-
-        <li class="col-md-3 col-sm-6 item web_dev uncategorized">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg6.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg6.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-
-
-  
-      <li class="col-md-3 col-sm-6 item web-design">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg12.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg12.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-
-        <li class="col-md-3 col-sm-6 item web-design uncategorized">
-          <div class="item-wrapper">
-            <div class="image">
-              <a href="img/portfolio/bg13.jpg" class="image_pop" title="Project Title">
-              <img class="img-responsive" src="img/portfolio/bg13.jpg" alt="Portfolio" />
-              </a>
-              <p>
-                <a href="#">Bootstrap</a>
-                <a href="#">Landing</a>
-                <a href="#">css</a>
-                <a href="#">jQuery</a>
-              </p>
-            </div>
-            <div class="text">
-              <h5 class="h6"><a href="#">Infinite Landing Page</a></h5>
-              <span>by <strong>Naveen</strong></span>
-              
-              
-            </div>
-          </div>
-        </li>
-
-    
-    </ul>
-    
-
-    
-    
-  </div>
-  
-</section>
-<!-- portfolio end -->
 
 
 
