@@ -367,13 +367,13 @@
       <li class="col-md-3 col-sm-6 item web-design uncategorized">
           <div class="item-wrapper">
             <div class="image">
-              <a href="assets/img/challenges/tuscany.png" class="image_pop" title="Information prematurely leaked allowed a bombardment of early feedback which circumvented our right to due process.">
+              <a href="assets/img/challenges/tuscany.png" class="image_pop" title='We have to replace the current Balkanizing approach in favor of a "big picture" collaborative solution to this issue.'>
               <img class="img-responsive" src="assets/img/challenges/tuscany.png" alt="Portfolio" />
               </a>
             </div>
             <div class="text">
 
-              <span>Information prematurely leaked allowed a bombardment of early feedback which circumvented our right to due process.</span>
+              <span>We have to replace the current Balkanizing approach in favor of a "big picture" collaborative solution to this issue.</span>
               
             </div>
           </div>
