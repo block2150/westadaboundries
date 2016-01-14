@@ -58,7 +58,7 @@
       ga('send', 'pageview');
 
     </script>
-    
+
     <!-- Facebook Pixel Code -->
     <script>
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -595,7 +595,7 @@
         </div>
 
 <p class="mar-top-1">
-  Download the complete alternative plan.<br /><a href="/downloads/alternative-plan.pdf">PDF</a> | <a href="/downloads/alternative-plan.pptm">PPT</a> | <a href="/downloads/alternative-map.pdf">MAP</a>
+  Download the complete alternative plan.<br /><a href="/downloads/alternative-plan.pdf" target="_blank">PDF</a> | <a href="/downloads/alternative-plan.pptm" target="_blank">PPT</a> | <a href="/downloads/alternative-map.pdf" target="_blank">MAP</a>
 </p>
 
       </div>
@@ -608,10 +608,64 @@
 
 
 
+ <!-- about-us -->
+ <section id="maps" class="about-us padding">
+  <div class="container">
+
+    <header class="heading_1 text-center">
+      <i class="icon icon-map"></i>
+      <h2 class="main_title">
+        <span class="sub_title">A Simple Solution</span>
+        Alterative <span class="base-highlight">Boundary</span> Map
+      </h2>
+    </header>
+
+    <ul class="nav nav-tabs alt">
+      <li class="active"><a href="#middle-maps" data-toggle="tab" aria-expanded="true">MIDDLES SCHOOL</a></li>
+      <li class=""><a href="#high-maps" data-toggle="tab" aria-expanded="false">HIGH SCHOOL</a></li>
+    </ul>
+
+    <div class="tab-content alt">
+      <div class="tab-pane fade active in" id="middle-maps">
+
+        <div class="row flex-row-center">
+          <div class="col-md-6">
+            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/middle-school-boundaries.png">
+          </div>
+
+          <div class="col-md-5 col-md-offset-1">
+            <h4>Middle School Boundary Plan</h4>
+            <p>Although this plan puts LCMS at capacity with 1005 students, it allows room for growth where growth is expected.  It also provides greater continuity with the perposed high school plan, maintaining the goal that we need to place as many middle school students with their peers as they make the complicated transition to high school.  </p>      
+            <a href="assets/img/proposal/middle-school-boundaries.png" target="_blank">View Larger</a>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="tab-pane fade" id="high-maps">
+
+        <div class="row flex-row-center">
+          <div class="col-md-6">
+            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/high-school-boundaries.png">
+          </div>
+          <div class="col-md-5 col-md-offset-1">
+            <h4>High School Boundary Plan</h4>
+            <p>The purposed high school solution provides for a more balanced enrollment across all high schools, ensures the continuation of community as our students transition from middles school to high school, and establishes a simpler boundary alignment that will ease the burden of future change.</p>
+            <a href="assets/img/proposal/high-school-boundaries.png" target="_blank">View Larger</a>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- about-us end -->
+
 
 
  <!-- cta-1 call to action -->
- <section id="petition" class="cta-1 text-center padding">
+ <section id="petition" class="cta-1 text-center padding gray-bg bb-1">
   <div class="container">
 
     <header class="heading_1 text-center">
@@ -641,7 +695,6 @@
           <h4 class="subscription-success notice">Success notice here</h4>
           <h4 class="subscription-error notice">Error notice here</h4>
         </form>
-        <a href="#" class="btn btn-border-extra mar-top-2">Get Started</a>
       </div>
 
 
@@ -652,7 +705,7 @@
 
 
  <!-- cta-1 call to action -->
- <section id="tools" class="cta-1 text-center single-padding gray-bg bb-1">
+ <section id="tools" class="cta-1 text-center single-padding">
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
@@ -715,7 +768,7 @@
  
 
  <!-- contact -->
- <section id="contact" class="contact padding">
+ <section id="contact" class="contact padding gray-bg bb-1">
   <div class="container">
   
   <header class="heading_1 text-center">
@@ -777,7 +830,7 @@
 </section>
 
 
-  <section class="content-contact-section single-padding gray-bg bb-1">
+  <section class="content-contact-section single-padding">
 
       <header class="heading_1 text-center">
         <i class="icon icon-map-pin"></i>
