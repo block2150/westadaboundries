@@ -595,7 +595,7 @@
         </div>
 
 <p class="mar-top-1">
-  Download the complete alternative plan.<br /><a href="/downloads/alternative-plan.pdf" target="_blank">PDF</a> | <a href="/downloads/alternative-plan.pptm" target="_blank">PPT</a> | <a href="/downloads/alternative-map.pdf" target="_blank">MAP</a>
+  Download the complete alternative plan.<br /><a href="/downloads/alternative-plan.pdf" target="_blank">PDF</a> | <a href="/downloads/alternative-plan.pptm" target="_blank">PPT</a>
 </p>
 
       </div>
