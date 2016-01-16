@@ -545,10 +545,6 @@
             <img class="img-responsive" src="assets/img/slides/Slide13.png" alt="Image">
           </div>
 
-          <div class="item">
-            <img class="img-responsive" src="assets/img/slides/Slide14.png" alt="Image">
-          </div>
-
         </div>
       </div>
 
@@ -649,7 +645,7 @@
           <div class="col-md-5 col-md-offset-1">
             <h4>High School Boundary Plan</h4>
             <p>The purposed high school solution provides for a more balanced enrollment across all high schools, ensures the continuation of community as our students transition from middles school to high school, and establishes a simpler boundary alignment that will ease the burden of future change.</p>
-            <a href="assets/img/proposal/high-school-boundaries.png" target="_blank">View Larger</a>
+            <a href="assets/img/proposal/high-school-boundaries-large.png" target="_blank">View Larger</a>
           </div>
         </div>
 
