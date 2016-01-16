@@ -236,7 +236,7 @@
       <i class="icon icon-streetsign"></i>
       <h2 class="main_title">
         <span class="sub_title">Current Proposal</span>
-        Looking for a  <span class="base-highlight">Solution</span>
+        A Step  <span class="base-highlight">BAckwards</span>
       </h2>
     </header>
 
@@ -252,15 +252,13 @@
 
         <div class="row flex-row-center">
           <div class="col-md-6">
-            <div class="embed-video-container embed-responsive embed-responsive-16by9">
-              <object id="flashObj" width="480" height="270" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=4688928001001&playerID=3615632433001&playerKey=AQ~~,AAADSfuNQ3k~,5bO9F2ttkqv21-8yrWXDJAm6M6MfB6sv&domain=embed&dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=4688928001001&playerID=3615632433001&playerKey=AQ~~,AAADSfuNQ3k~,5bO9F2ttkqv21-8yrWXDJAm6M6MfB6sv&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="480" height="270" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
-            </div>    
+            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/more-confusion.png"> 
           </div>
 
           <div class="col-md-5 col-md-offset-1">
-            <h4>KTVB News Coverage of the Boundary Proposal</h4>
-            <p>"Changing attendance areas is always an emotional issue," West Ada School District spokesman Eric Exline told KTVB. "People are concerned about their kids getting separated from their peers, distance to schools, the affiliations that they've made for the schools."</p>      
-            <p><small>source: <a href="http://www.ktvb.com/story/news/education/2016/01/07/w-ada-schools-present-new-boundaries/78398078/" target="_blank">http://www.ktvb.com</a></small></p>
+            <h4>Changes Made on January 14, 2016</h4>
+            <p>After the second public hearing on Wednesday, January 13, the Attendance Area Committee met for five hours on Thursday night, January 14 to consider changes to the attendance area proposal.  It appears the committee heard the conserns of some members of the community while ignoring the conserns of others.</p>      
+            <a href="http://www.westada.org/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=63&ViewID=047E6BE3-6D87-4130-8424-D8E4E9ED6C2A&RenderLoc=0&FlexDataID=70849&PageID=1" class="read-more" target="_blank">View the Committee's Changes</a>
           </div>
 
         </div>
@@ -270,12 +268,12 @@
 
         <div class="row flex-row-center">
           <div class="col-md-6">
-            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/overcrawding.png">
+            <img class="img-responsive" alt="Feature Image" src="assets/img/proposal/campaire-overcrowding.png">
           </div>
           <div class="col-md-5 col-md-offset-1">
             <h4>Balanced Enrollment and Overcrowding</h4>
-            <p>The current proposal tries to solve the balanced enrollment and overcrowding issue.  In the proposal it is stated that, "To achieve equal enrollment, all schools would be 17% over capacity."  As you can see, the plan offered makes progress toward that ideal, but there is much more work to do to balance the enrollment.</p>
-            <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
+            <p>The changes made on January 14, 2016 are a step backwards in trying to reach the goal of balancing enrollment and overcrowding.  Keep in mind the statement made by the school district, "To achieve equal enrollment, all schools would be 17% over capacity."  As you can see, the new proposal's pecentages are worse then they were before.  The alternative solution presented here has estblishes greater equality across all high schools.</p>
+            <a href="http://www.westada.org/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=63&ViewID=047E6BE3-6D87-4130-8424-D8E4E9ED6C2A&RenderLoc=0&FlexDataID=70849&PageID=1" class="read-more" target="_blank">View the Committee's Changes</a>
           </div>
         </div>
 
@@ -285,7 +283,7 @@
         <div class="row flex-row-center">
           <div class="col-md-6">
             <h4>Middle School Splits</h4>
-            <p>Middle Schools are considered "feeder schools" for each high school.  The current plan calls for uneven, and in some cases unnecessary, splits of three middle schools.  The goal, as stated by the school district is an even 50-50 split.  Again, there is more work that needs to be done to achieve this goal.</p>
+            <p>The comment, "students to stay with their peers as they go into high school"  is encouraging and provides hope that the committee is listening and working to align the plan to the goals they established.  That said the adjusted plan calls for uneven, and in some cases unnecessary, splits of three middle schools.  The goal, as stated by the school district is an even 50-50 split.  Again, there is more work that needs to be done to achieve this goal.</p>
             <a href="/downloads/final-presentation.pptx" class="read-more">Download the Current Proposal</a>
           </div>
           <div class="col-md-6">
